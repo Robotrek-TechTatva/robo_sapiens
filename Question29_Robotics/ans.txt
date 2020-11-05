@@ -1,0 +1,6 @@
+i) Increasing P will make the controller very sensitive causing it to oscillate 
+
+Increasing D can be used to dampen the "over correcting" by an increased P 
+Ans: a. Kp  b. Kd
+
+ii) Kd

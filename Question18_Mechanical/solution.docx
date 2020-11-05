@@ -1,0 +1,12 @@
+At 0 velocity, the robot gets wet from top by some constant amount and not from the front.
+While travelling at any speed it gets equally wet from top because even though it may be 
+avoiding the drops that are top of it in a moment but gets wet by the drops that are on top 
+of it in the next moment. Therefore no matter the speed, the amount of rain it gets from 
+top remains constant.
+Now at 0 velocity, the amount of rain it gets from front may be 0 but when it goes from point
+ A to B it gets wet by the rain drops in front and the number of drops it gets per metre 
+ remains almost constant as long as it is in motion, no matter the speed because at low speed 
+ it hits lesser drops but for more time in a mertre and at high speeds it hits same number of 
+ drops, just faster.
+ Therefore, the longer it stands in the rain, the more damage it receives.
+A velocity command value of 10 is the apt solution here.

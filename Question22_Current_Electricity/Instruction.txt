@@ -1,0 +1,7 @@
+Instructions
+
+Show the complete steps in your solution and include pictures of your
+solution in this folder. Please make sure to name the files in order.
+Handwritten solutions are accepted.
+
+Example: 1.jpeg, 2.jpeg, 3.jpeg etc.

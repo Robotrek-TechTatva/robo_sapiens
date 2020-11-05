@@ -1,0 +1,5 @@
+Instructions
+
+Please put proper comments in the code and follow pep8 convention.
+Please mention the topics correctly.
+Print the result on terminal.

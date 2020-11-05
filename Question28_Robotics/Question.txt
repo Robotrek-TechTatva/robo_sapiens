@@ -1,0 +1,6 @@
+Four identical SRS arms are grasping a common object as shown below.
+
+[*Picture in the same directory*]
+
+Find the number of degree of freedom of this system while the grippers hold the object rigidly (no relative motion between the object and last links of the arms)
+

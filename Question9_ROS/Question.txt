@@ -1,0 +1,5 @@
+Download the given model folder and write a node that makes the robot follow a path that 
+mimics the sine wave from 0 to 2*pi (in Gazebo) using the Twist() message in your 
+preferred language and make a launch file for it.
+
+

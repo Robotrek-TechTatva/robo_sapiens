@@ -1,0 +1,1 @@
+If you could give your robot a velocity command ranging from 0-10 (0 being stop, 10 being- move as fast as it can), what set of commands or command would you give such that you deal with minimal damage in rain. Give Reasons.

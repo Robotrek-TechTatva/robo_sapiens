@@ -1,0 +1,6 @@
+
+Download the given URDF file and add another link to it with the following specification:
+
+Wheel Height: 0.05m
+Wheel Diameter: 0.1m
+Wheel Mass: 0.5kg

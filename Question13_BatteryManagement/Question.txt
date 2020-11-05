@@ -1,0 +1,14 @@
+Which of the following are the reasons for cell imbalancing
+a) cell’s SOH diverge from another
+b)cells having different net current from each other.
+c)A cell with high resistance will tend to hit an upper/ lower voltage limit before other cells, so will limit available pack power
+d)different cell resistances cause cell voltages under load to be quite different.
+e) different cells having different coulombic efficiency
+
+1)c,d,e
+2)a,b
+3)c,d
+4)b,e
+5)a,b,e
+5)all of the above
+

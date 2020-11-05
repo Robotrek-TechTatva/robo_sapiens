@@ -1,0 +1,11 @@
+Answer the following question in order to tune the  Kp Kd Ki gains of an altitude pid controller of a quadcopter.
+
+i) By increasing which gain and keeping other gains zero the plant  ( quadcopter) will go into various vertical oscillations in order to attain stability?
+
+ Which gain to be increased from zero to reduce these oscillations and achieve steady state?
+
+ 
+ii) Which gain will have the least effect on decreasing the rise time  of the quadcopter?
+
+
+

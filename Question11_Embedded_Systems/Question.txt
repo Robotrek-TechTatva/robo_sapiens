@@ -1,0 +1,10 @@
+Write the Arduino code with 3 LEDs for a 3 bit binary counter.
+
+Use a pushbutton as input. The press of the pushbutton to increment the output
+by 1, and the corresponding result should display in 3-bit binary on the LEDs.
+
+Glowing LED: 1
+Unlit LED: 0
+
+Once the number reaches 111, pressing of the pushbutton should reset the system
+and bring the output back to 000.

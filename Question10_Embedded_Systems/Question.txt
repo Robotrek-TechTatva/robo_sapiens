@@ -1,0 +1,9 @@
+Write the Arduino code for 3 LEDs that light up sequentially with the
+frequency based on the input from a potentiometer.
+
+For example if the three LEDs are A, B and C, then they should light up one
+after the other in a loop. A->B->C->B->A->B and so on.
+
+The delay between the lighting of two conseuqutive LEDs should depend on the
+position of potentiometer. Turning it clockwise should increase the frequency,
+and and turning it anti-clockwise should have the opposite effect.

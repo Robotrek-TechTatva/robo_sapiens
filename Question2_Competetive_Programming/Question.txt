@@ -1,0 +1,28 @@
+In the game of darts a player throws three darts at a target board which
+is split into twenty equal sized sections numbered one to twenty, with two
+additional sections 25 (bullseye) and 50 (double bullseye) at the centre.
+
+Each numbered section (from 1-20) is further divided into 3 segments:
+single, double, and triple. As their names suggest, depending on where you
+land on these three segments, the points allocated for that section (1-20)
+remain the same, are doubled, or are tripled.
+
+The game generally starts at 301 or 501 points, with the player being required
+to hit the target and subtract the received points accordingly till they reach
+EXACTLY 0.
+
+For example, consider the middle of a game where a player is currently at
+66 points. One of the many possible sequences of points to reach exactly 0
+from here is:
+
+1. D10 (brings score to 46)
+2. T6 (brings score to 28)
+3. Bullseye (brings score to 3)
+4. S3
+
+Write a C/C++/Python program that takes the present score n of a player as input
+and gives the total number of ways x in which the player can reach exacty 0 in not
+more than 11 attempts. The above example had 4 attempts.
+
+Input: n such that 0<n<301
+Output: x

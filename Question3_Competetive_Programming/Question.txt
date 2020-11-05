@@ -1,0 +1,15 @@
+Three distinct points are plotted at random on a Cartesian plane,
+for which -100 ≤ x, y ≤ 100, such that a triangle is formed.
+
+Consider the following two triangles:
+A(-34,49), B(-15,-91), C(83,-95)
+X(-18,4), Y(-42,-71), Z(57,-65)
+
+It can be verified that triangle ABC contains the origin,
+whereas triangle XYZ does not.
+
+Write a C/C++/Python program to count the number of triangles T that contain
+the origin from the contents of a .csv file.
+
+Input: Name of .csv file
+Output: T

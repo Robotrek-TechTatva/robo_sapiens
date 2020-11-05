@@ -1,0 +1,6 @@
+You are working on a roomba robot. After rotating on its axis, the robot malfunctioned in such a way that it kept rotating in the same direction as that of the first round and stopped after a certain angle. The trend follows such that with each progression it rotates, half the angle from the previous turn and stops for an instance.
+
+Pn+1(𝜃 / 2) = Pn(𝜃)
+
+How many rounds will it rotate assuming the roomba has infinite power supply?
+

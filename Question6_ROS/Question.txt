@@ -1,0 +1,2 @@
+Write two rosnodes that subscribe to the two topics /bruh1 /bruh2 and publish
+the sum of the numbers being published on these two topics.

@@ -1,0 +1,2 @@
+Write RTL (Behavioural) description and test bench for
+a 4:1 Multiplexer circuit .The block diagram of 4:1 multiplexer is shown below.

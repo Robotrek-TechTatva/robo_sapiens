@@ -1,0 +1,9 @@
+Instructions
+
+Create an account and use https://www.tinkercad.com/ to simulate the circuit
+and code.
+
+Once the circuit and code have been prepared and tested, paste the link to the
+solution in the solution.txt file in this folder. Please make sure the project
+on Tinkercad is made public and is accessible directly using the link.
+

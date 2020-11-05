@@ -1,0 +1,5 @@
+Write the arduino code that uses UART to send a custom string from
+one Arduino connected to another. A string sent on the Serial Monitor for
+Arduino A should get displayed on the Serial Monitor of Arduino B.
+
+Make sure to name the Arduinos appropriately in the simulation.

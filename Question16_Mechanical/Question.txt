@@ -1,0 +1,1 @@
+Given a block of mass M, a spring with an unknown spring constant K and a weighing scale. Design a system that would estimate the value K. Provide a diagram of the system and the method of estimation. (Both digital and hand drawn illustrations shall be accepted)

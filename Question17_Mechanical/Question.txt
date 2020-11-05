@@ -1,0 +1,4 @@
+If you were teleoperating an F1 car from a distance and your teleoperation is based on four instructions: Brake, Accelerate, Shift gear (up/down) and turn(left/right). Write down the set of operations you would give the car for the famous hairpin turn at Circuit de Monaco from 100 meters before the turn to 100 meters after. Give Reasons.
+
+P.S. Simultaneous instructions are accepted
+

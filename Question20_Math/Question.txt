@@ -1,0 +1,8 @@
+In the above scenario if the trend follows the following progression:
+
+[*Equation's picture in the same directory*]
+
+then how would the number of rounds change? Also, would the number of rounds be finite for the same constraints?
+
+Hint: You’ll have to prove it in both cases
+

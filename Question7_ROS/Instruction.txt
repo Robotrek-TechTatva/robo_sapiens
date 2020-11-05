@@ -1,0 +1,6 @@
+Instructions
+
+Please don't change anything in the URDF except the addition of the link.
+Also, Don't forget to add the joint of the URDF with the link.
+
+Save the urdf and upload the whole file in the folder.

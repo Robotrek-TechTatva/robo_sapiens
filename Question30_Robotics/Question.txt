@@ -1,0 +1,6 @@
+Consider an 8R robot arm at a configuration away from a singularity, i.e., its Jacobian has rank 6 and it can move its end-effector in any twist direction in the 6-dimensional twist space. Now, we rigidly attach its end-effector to the end-effector of a 3R robot arm (also away from a singularity), which allows the end-effector of the 8R to move instantaneously in only three degrees of freedom.
+
+Now consider the eight-dimensional space of joint torques of the 8R. There is a subspace A of joint torques that causes internal motion of the 8R robot (with no motions or forces at its end-effector) and a subspace B of joint torques that causes forces against the constraints provided by the 3R but no motion of the 8R (internal or at the end-effector).
+
+i) What are dimensions of subspace A and subspace B?
+

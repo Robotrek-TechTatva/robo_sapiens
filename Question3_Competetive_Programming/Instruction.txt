@@ -1,0 +1,12 @@
+Instructions
+
+Write the appropriate program in C/C++/Python and save as file with name 'solution' in this folder.
+
+Make sure to use the appropriate extensions.
+
+Use the provided file triangles.csv to test your code.
+The vertices of a triangles are (X1, Y1), (X2, Y2), (X3, Y3)
+Please note that a triangle will be considered to contain the origin even
+when a side passes through the origin.
+
+Example: solution.py

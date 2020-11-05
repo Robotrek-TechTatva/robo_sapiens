@@ -1,0 +1,10 @@
+Write a C/C++/Python program to find the winner of a tennis match given
+an array that describes whether a point was won or lost for each player.
+
+Example: Assume 2 players A & B. If A won the 1st, 2nd, and 4th
+points, their array would look like: [1, 1, 0, 1, 0…...]
+and B’s array would be the complement, ie: [0, 0, 1, 0, 1…...]
+
+Input: Name of .csv file of random number of rows n such that
+24<n<500
+Output: Winner of match, A or B.

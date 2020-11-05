@@ -1,0 +1,8 @@
+Write RTL description and testbench for an Arithmetic Logic Unit using
+arithmetic and logical operators. The block diagram and instructions set for ALU are shown below.
+
+The ALU performs 16 different operations using command input Basicon
+8 bit inputs a and b. If the MSB of the command input is low then the
+rithmetic operations are performed. If the MSB of command input is high
+then the logical operations are performed. The output is of 16 bit. I
+nput oe enables the ALU, i.e. when oe is low, output is at high impedance. 

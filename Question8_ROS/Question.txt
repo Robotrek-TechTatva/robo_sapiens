@@ -1,0 +1,4 @@
+Make a hexagon with turtlesim.
+
+Open the turtlesim and write a program to move the turtlesim
+in hexagonal shape and stop after completing a round.

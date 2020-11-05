@@ -1,0 +1,2 @@
+Write RTL description and testbench for the Sequence Detector that
+detects “1011” from input data stream. 
